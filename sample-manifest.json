@@ -1,0 +1,12 @@
+{
+  "export_job_id": "56ee2e61-78f5-4c3d-be57-800057ab1eb7",
+  "id_short": 354678,
+  "published_at": "2026-04-10T20:01:24Z",
+  "repo_name": "tech-ready-restaurants-in-the-cleveland-metro-area-oh-us-sample-354678",
+  "sample_asset_name": "beamstation_354678_restaurants-us-clevelandoh_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/354678/beamstation_354678_restaurants-us-clevelandoh_SAMPLE_DIST.csv",
+  "sample_records": 1,
+  "sample_sha256": "0bfede1653dd301251d3c0c304dfbbef59d77c9c98ecd4372d0ea71a94c69e7a",
+  "sample_size_bytes": 18818,
+  "total_records": 19
+}
