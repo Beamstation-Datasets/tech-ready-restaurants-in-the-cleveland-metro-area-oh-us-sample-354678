@@ -1,6 +1,6 @@
 # Tech-Ready Restaurants in the Cleveland Metro Area, OH, US
 
-> Free BeamStation sample export with 1 rows and masked direct-contact fields.
+> Free BeamStation sample export with 2 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `354678` |
 | Location | Cleveland, OH |
 | Category | Restaurants |
-| Full dataset size | 3 records |
-| Free sample size | 1 records (33.33%) |
-| Last export | 2026-04-22T16:11:08.081731+00:00 |
+| Full dataset size | 29 records |
+| Free sample size | 2 records (6.9%) |
+| Last export | 2026-04-29T16:19:36.330604+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-the-cleveland-metro-area-oh-us-sample-354678/releases/download/sample-latest/beamstation_354678_restaurants-us-clevelandoh_SAMPLE_DIST.csv) |
 
 ## What is in this sample
